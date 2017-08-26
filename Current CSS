@@ -132,10 +132,9 @@ width: 60px;
 .guilds-wrapper .guilds-add{
  border-radius: 90%; 
     border: none;
-    background-color: #FFFFFF;
-    background-image: url("http://i.bandori.party/u/c/646Rinko-Shirokane-Cool-sqtfz8.png");
-    background-size: 55px 55px;
-    background-repeat: no-repeat;
+    background-color: #223639 !important;
+   
+ 
 }
 
 .new-messages-indicator.newmessages-indicator-mention{
