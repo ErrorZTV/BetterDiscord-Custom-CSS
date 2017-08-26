@@ -138,3 +138,23 @@ width: 60px;
     background-repeat: no-repeat;
 }
 
+.new-messages-indicator.newmessages-indicator-mention{
+ background-color: #AAFF00;   
+}
+
+
+.avatar-small .status{
+ width:5px;
+    height: 5px;
+    border-color: #223639;
+    border-radius: 5px;
+}
+
+.container-iksrDt{
+ color: #fedfed;   
+}
+
+.accountDetails-15i-_e .discriminator{
+ color: #fedfed; 
+    opacity: .7;
+}
