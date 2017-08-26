@@ -37,6 +37,10 @@ background-image: url(http://i.bandori.party/u/c/a/681Himari-Uehara-Power-7c3vbR
  background-image: url(http://i.bandori.party/u/c/a/666Lisa-Imai-Cool-xTR1DU.png) ;   
 }
 
+.win-buttons.win-buttons-light .win-close{
+ background-image: url(http://i.bandori.party/u/c/611Kokoro-Tsurumaki-Happy-I8NfFD.png) !important;   
+}
+
 .win-buttons button{
  width:30px;
     height:30px;
@@ -49,3 +53,66 @@ background-image: url(http://i.bandori.party/u/c/a/681Himari-Uehara-Power-7c3vbR
 button{
  font-family: georgia,Whitney,sans-serif;   
 }
+
+body{
+ font-family: georgia,Whitney,sans-serif;   
+}
+
+.theme-dark .layer, .theme-dark .layers{
+    background-color:#000000 !important;
+}
+
+.guilds-wrapper{
+
+width: 60px;
+    background-color: #987987
+    
+}
+
+.guilds-wrapper .scroller-wrap{
+ width:70px;   
+}
+
+.guilds-wrapper .guilds{
+ padding: 10px 0 10px 5px;
+}
+
+.scroller-wrap .scroller::-webkit-scrollbar-thumb, .scroller-wrap .scroller::-webkit-scrollbar-track-piece{
+ background-color: #999999;
+    border: 0px solid transparent;
+    border-radius:0px;
+}
+
+.guilds-wrapper .guilds .guild{
+ width:50px !important;
+    height:50px !important;
+}
+
+.guild-inner{
+ border-radius: 5px ;
+    background-color: #70fff0 !important;
+
+   
+}
+
+.guilds-wrapper .guilds .guild .guild-inner a{
+ color: #99aaff;
+
+}
+
+.guilds-wrapper .guilds .friends-icon{
+ width:60px;
+    height:60px;
+    background-image:url(http://i.bandori.party/u/c/631Kanon-Matsubara-Happy-wyG1FH.png);
+    background-size: 80px 80px;
+    background-position:75%;
+}
+
+.guilds-wrapper .guilds .guild+.guild{
+ margin-top: 4px;   
+}
+
+.guilds-wrapper .guilds .guild .guild-inner{
+    background-color:#223639 !important;
+}
+
