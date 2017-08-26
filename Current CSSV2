@@ -1,0 +1,51 @@
+.channels-wrap {
+  width: 220px !important;
+  min-width: 60px !important;
+  max-width: 300px !important;
+  background-color: #70fff0 !important;
+  font-family: georgia !important;
+}
+
+.channel-members{
+ background-color: #223639 !important;
+
+}
+.app {
+    background: url(http://safebooru.donmai.us/data/sample/__ayase_eli_hoshizora_rin_koizumi_hanayo_kousaka_honoka_minami_kotori_and_others_love_live_love_live_school_idol_festival_love_live_school_idol_festival_after_school_activity_and_love_live_school_idol_project__sample-4d8a07669a665f97601b0f9cc6cfa374.jpg) !important;
+    background-size: cover !important;
+}
+printimage
+
+.layer, .layers{
+background: transparent !important; }
+
+#pubs-header input { 
+   
+    background-color: #ffffff !important; 
+   
+ } 
+
+.titlebar-edge{
+ background-color:#70fff0   
+}
+
+.win-buttons.win-buttons-light .win-minimize{
+background-image: url(http://i.bandori.party/u/c/a/681Himari-Uehara-Power-7c3vbR.png) !important;
+}
+
+.win-buttons.win-buttons-light .win-maximize{
+ background-image: url(http://i.bandori.party/u/c/a/666Lisa-Imai-Cool-xTR1DU.png) ;   
+}
+
+.win-buttons button{
+ width:30px;
+    height:30px;
+    background-size: 30px;
+    transition: opacity .5s;
+    opacity: .7;
+
+}
+
+button{
+ font-family: georgia,Whitney,sans-serif;   
+}
