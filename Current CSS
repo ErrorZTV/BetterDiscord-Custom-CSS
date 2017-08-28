@@ -8,13 +8,15 @@
 
 .channel-members{
  background-color: #223639 !important;
+ 
 
 }
 .app {
-    background: url(http://safebooru.donmai.us/data/sample/__ayase_eli_hoshizora_rin_koizumi_hanayo_kousaka_honoka_minami_kotori_and_others_love_live_love_live_school_idol_festival_love_live_school_idol_festival_after_school_activity_and_love_live_school_idol_project__sample-4d8a07669a665f97601b0f9cc6cfa374.jpg) !important;
+    background: url(http://i.bandori.party/u/c/art/611Kokoro-Tsurumaki-Happy-6X74F3.png) !important;
     background-size: cover !important;
+    border-radius: 50% !important;
 }
-printimage
+/*printimage*/
 
 .layer, .layers{
 background: transparent !important; }
@@ -64,13 +66,17 @@ body{
 
 .guilds-wrapper{
 
-width: 60px;
+width: 70px;
     background-color: #987987
     
 }
 
-.guilds-wrapper .scroller-wrap{
+/*.guilds-wrapper .scroller-wrap{
  width:70px;   
+}*/
+
+.scroller-wrap{
+ width: 75px !important;   
 }
 
 .guilds-wrapper .guilds{
@@ -138,15 +144,21 @@ width: 60px;
 }
 
 .new-messages-indicator.newmessages-indicator-mention{
- background-color: #AAFF00;   
+ background-color: #333333;   
 }
 
 
 .avatar-small .status{
- width:5px;
-    height: 5px;
+ width:27px;
+    height: 27px;
     border-color: #223639;
-    border-radius: 5px;
+    border-radius: 50px;
+    z-index: -1 !important;
+    opacity: .4 !important;
+    top: 0 !important;
+    left: 0 !important;
+    right: 0 !important;
+    
 }
 
 .container-iksrDt{
@@ -156,4 +168,40 @@ width: 60px;
 .accountDetails-15i-_e .discriminator{
  color: #fedfed; 
     opacity: .7;
+    z-index: 1 !important;
 }
+
+#app-mount .native-toolbar .app-layer{
+    background: none!important;
+}
+
+.mention{
+   
+ color: #70fff0;   
+    font-size: 105%;
+}
+
+.mentioned{
+display:block;
+    
+}
+
+.message-group .btn-option{ 
+    background-image: url(https://cdn.discordapp.com/attachments/294318405367103489/351196033973485573/Unicycle.png) !important;   
+background-size: 100% !important;
+}
+
+.user-name{
+ font-size: 90% !important;
+   /* padding: 3px;
+    border-top: thin none #888888;
+  border-right: thin none #FFFFFF;
+    border-left: thin none #FFFFFF;
+    border-bottom:  thin none #888888;
+inset bottom and outset top sometimes when I feel like it*/
+}
+
+.theme-dark .layer, .theme-dark .layers{
+ background-color: transparent !important;   
+}
+
