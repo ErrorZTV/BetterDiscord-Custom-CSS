@@ -1,0 +1,61 @@
+body{
+ font-family: georgia, Whitney, sans-serif !important;   
+}
+
+.channels-wrap{
+width: 216px;
+
+}
+
+div.container-iksrDt{
+
+  height: 35px;
+    background-color: #70fff0 !important;
+   /* color: #bb00ff; */
+    color: #8800ff !important;
+
+    /* background-image: url(http://i.bandori.party/u/c/art/651Hina-Hikawa-Happy-jab0wf.png) !important;
+background-position: 825px 110px;
+    background-size: 90%;*/
+    /*Hina test thingy ignore now plz*/
+  
+}
+
+.titlebar-edge{
+    
+height: 5px !important; 
+    background-color: #70fff0
+}
+
+div.win-buttons.win-buttons-light{
+ background-color: #70fff0 !important;
+     right: 0px;
+    width: 180px
+    
+}
+
+.win-buttons.win-buttons-light .win-minimize{
+background-image: url(http://i.bandori.party/u/c/a/681Himari-Uehara-Power-7c3vbR.png) !important;
+width: 50px;
+    height: 50px;
+    background-size: 50px;
+    margin: 5px;
+    
+}
+
+.win-buttons.win-buttons-light .win-maximize{
+ background-image: url(http://i.bandori.party/u/c/a/666Lisa-Imai-Cool-xTR1DU.png) ;   
+width: 50px;
+    height: 50px;
+    background-size: 50px;
+    margin: 5px;
+}
+
+.win-buttons.win-buttons-light .win-close{
+ background-image: url(http://i.bandori.party/u/c/611Kokoro-Tsurumaki-Happy-I8NfFD.png) !important;   
+width: 50px;
+    height: 50px;
+    background-size: 45px;
+    margin: 5px;
+
+}
