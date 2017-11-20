@@ -1,0 +1,306 @@
+body{
+ font-family: georgia, Whitney, sans-serif !important;   
+}
+
+.layer .layers { background: transparent !important }
+
+.channels-wrap{
+width: 216px;
+
+}
+
+.container-iksrDt{
+
+  height: 35px;
+    background-color: #70fff0 !important;
+   /* color: #bb00ff; */
+    color: #8800ff !important;
+
+    /* background-image: url(http://i.bandori.party/u/c/art/651Hina-Hikawa-Happy-jab0wf.png) !important;
+background-position: 825px 110px;
+    background-size: 90%;*/
+    /*Hina test thingy ignore now plz*/
+  
+}
+
+.titlebar-edge{
+    
+height: 5px !important; 
+    background-color: #70fff0
+}
+
+div.win-buttons.win-buttons-light{
+ background-color: #70fff0 !important;
+     right: 0px;
+    width: 180px
+    
+}
+
+.win-buttons.win-buttons-light .win-minimize{
+background-image: url(http://i.bandori.party/u/c/a/681Himari-Uehara-Power-7c3vbR.png) !important;
+width: 50px;
+    height: 50px;
+    background-size: 50px;
+    margin: 5px;
+    
+}
+
+.win-buttons.win-buttons-light .win-maximize{
+ background-image: url(http://i.bandori.party/u/c/a/666Lisa-Imai-Cool-xTR1DU.png) ;   
+width: 50px;
+    height: 50px;
+    background-size: 50px;
+    margin: 5px;
+}
+
+.win-buttons.win-buttons-light .win-close{
+ background-image: url(http://i.bandori.party/u/c/611Kokoro-Tsurumaki-Happy-I8NfFD.png) !important;   
+width: 50px;
+    height: 50px;
+    background-size: 45px;
+    margin: 5px;
+
+}
+
+/*for the name of servers popping up*/
+.tooltip.tooltip-brand{
+ background-color: #70fff0 ; 
+    color: #0000ff;
+}
+
+.emoji.jumboable {
+    width: 40px;
+    height: 40px;
+ }
+.emoji {
+    min-width: 25px;
+    min-height: 25px;
+}
+/*Apparently to change emoji picker scroller? I guess?
+.emoji-picker .scroller::-webkit-scrollbar-thumb {
+    /background-color: #876897 !important;
+    //border-color: #0000ff !important; 
+}
+
+.emoji-picker .scroller::-webkit-scrollbar, .bda-dark .emoji-picker .scroller::-webkit-scrollbar-track, .bda-dark .emoji-picker .scroller::-webkit-scrollbar-track-piece {
+    //background-color: #000000 !important;
+    //border-color: #ffffff !important;
+    //width: 30px !important;
+}*/
+
+
+/*includes not background of chat, but pfp, username, text, etc.*/
+.message-group {
+    background: #223637;
+    border-radius: 10px;
+   
+}
+
+.comment{
+ background: #223637;   
+    border-radius: 10px;
+}
+
+/*.callout-backgrop{
+    What this do I don't know help pls
+}*/
+
+.win-buttons button{
+transition: opacity .5s;
+    opacity: .7;
+}
+
+
+.guilds-wrapper{
+
+width: 70px;
+    background-color: #987987 !important;
+    
+}
+
+.guilds-wrapper .scroller-wrap{
+ width: 78px !important;  
+ 
+}
+
+.scroller-wrap .scroller::-webkit-scrollbar-thumb{
+ background-color: #654654;
+    border: 0px solid transparent;}
+    
+   /* .scroller::-webkit-scrollbar{
+    width: px;
+
+    }*/
+    
+.container-RYiLUQ{
+ background-color: #223639;
+   
+    
+}
+    
+    .flexChild-1KGWSq{
+font-family: georgia, Whitney, sans-serif !important;   
+
+}    
+
+.container-3NvGrL{
+    background-color: #223639 !important;
+   
+ 
+}
+
+.container-3NvGrL:hover{
+    
+    background-color: #70fff0 !important;
+  
+}
+
+.header-1tSljs{
+ font-family: georgia, Whiteney, sans-serif !important; 
+    color: #888888 !important;
+   padding: 0 8px 0 12px !important;
+    height: 40px;
+}
+
+.header-1tSljs:hover{
+
+    color: #8800ff !important;
+    padding: 0 8px 0 12px !important;
+    height: 40px;
+}
+    
+    .dropdown-button{
+ 
+}
+/*if I want I can make a new icon for this*/
+    
+.auth-tiling-bg{
+background-image: url("http://i.bandori.party/u/c/art/a/681Himari-Uehara-Power-zojGm1.png");
+
+}
+
+/*.unread-23Kvxk {
+color: #555555 !important;
+}*/
+    
+.message-group h2 strong {
+    font-size: 12px;
+}
+
+.theme-dark .message-group .mentioned .message-text{
+    background-color: #233640 !important;   
+}
+
+
+/*name color*/
+.headerTagNormal-KyD3_J span {
+    color: #70fff0 !important;
+    font-size: 10px !important;
+}
+
+/*playing text*/
+.headerActivityText-3qBQRo  {
+    color: #70fff0 !important;
+    font-size: 13px !important;
+}
+/*
+headerTagNormal-KyD3_J span:not(.headerDiscriminator-3fLlCR) {
+    color: red;
+}*/
+
+/*Changes color of popout profile bg*/
+.userPopout-4pfA0d {
+    background: rgba(34,54,57, .5);
+     border-radius: 25px;
+    border: transparent;
+}
+/*Make popout profile bg transparent*/
+.userPopout-4pfA0d :not([class*="status-"]) {
+    background-color: transparent;
+    border-radius: 25px;
+    border: transparent;
+}
+
+.headerNormal-1cioxU {
+    background: transparent;
+}
+
+.theme-dark .channel-members {
+    background-color: #223639;}
+    
+    .badge {
+    background-color: #70fff0 !important;
+        color: #987987 !important
+}
+/* to edit only my message
+.message-group > :first-child[style*="/avatars/219363409097916416/"] ~ .comment {
+  rules: here;
+}*/
+
+/*VC shit*/
+/*
+.avatarSpeaking-3teDH6 {
+    box-shadow: none;
+}
+.avatarSpeaking-3teDH6::before {
+    content: "";
+    display: block;
+    height: 20px;
+    border-left: 4px solid #43b581;
+    position: absolute;
+    left: -5px;
+}
+*/
+
+/*.bd-blue .popout.popout-bottom header:before {
+    border-bottom-color: #005de4;
+}What thius is I do not know*/
+
+.chat form textarea::-webkit-input-placeholder {
+    color: #223649 !important;
+ 
+}
+
+/*.nameHoveredText-2FFqiz {
+    background: #213639;
+}
+
+.innerEnabled-gLHeOL.inner-3if5cm.flex-3B1Tl4.innerNoAutocomplete-kaUXJZ{
+    background: color:#223639 !important;
+        color: #70fff0;
+}*/
+
+.message-group .comment .embed-wrapper {
+   /* max-width: 250px;*/
+}
+
+.message-group .avatar-large[style*='user id'] + .comment .user-name {
+    font-size: 0px;
+}
+.message-group .avatar-large[style*='user id'] + .comment .user-name::after {
+    content: "is awesome";
+    font-size: 16px;
+}
+.chat form .typing {
+    font-size:10px !important;
+}
+/*if I wanna make color behind name text
+.theme-dark .message-group h2 strong {
+  
+}*/
+/*.badge .friends-icon {
+   background-clip: padding-box;
+    background-color: purple;
+    border-radius: 13px;
+}
+test at different date*/
+
+/* NEW UNREADS DOWN ARROW */
+
+.unread-mentions-indicator-bottom {
+  display: none;
+}
+
+div[class^=unreadBottom] {
+  display: none;
+}
