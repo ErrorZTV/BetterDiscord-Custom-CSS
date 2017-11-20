@@ -1,14 +1,19 @@
 body{
+/*Makes the font georgia for everything, with a few backup fonts*/
  font-family: georgia, Whitney, sans-serif !important;   
 }
 
-.layer .layers { background: transparent !important }
-
-.channels-wrap{
-width: 216px;
-
+.layer .layers { 
+/*Makes layers transparent I guess*/
+background: transparent !important 
 }
 
+/*I don't know yet*/
+.channels-wrap{
+width: 216px;
+}
+
+/*IDK what this does*/
 .container-iksrDt{
 
   height: 35px;
@@ -23,19 +28,20 @@ background-position: 825px 110px;
   
 }
 
+/*I think this doesn't work anymore period*/
 .titlebar-edge{
     
 height: 5px !important; 
     background-color: #70fff0
 }
-
+/*I think this doesn't work anymore period*/
 div.win-buttons.win-buttons-light{
  background-color: #70fff0 !important;
      right: 0px;
     width: 180px
     
 }
-
+/*I think this doesn't work anymore period*/
 .win-buttons.win-buttons-light .win-minimize{
 background-image: url(http://i.bandori.party/u/c/a/681Himari-Uehara-Power-7c3vbR.png) !important;
 width: 50px;
@@ -44,7 +50,7 @@ width: 50px;
     margin: 5px;
     
 }
-
+/*I think this doesn't work anymore period*/
 .win-buttons.win-buttons-light .win-maximize{
  background-image: url(http://i.bandori.party/u/c/a/666Lisa-Imai-Cool-xTR1DU.png) ;   
 width: 50px;
@@ -52,7 +58,7 @@ width: 50px;
     background-size: 50px;
     margin: 5px;
 }
-
+/*I think this doesn't work anymore period*/
 .win-buttons.win-buttons-light .win-close{
  background-image: url(http://i.bandori.party/u/c/611Kokoro-Tsurumaki-Happy-I8NfFD.png) !important;   
 width: 50px;
@@ -62,31 +68,34 @@ width: 50px;
 
 }
 
+/*IDK if this works*/
 /*for the name of servers popping up*/
 .tooltip.tooltip-brand{
  background-color: #70fff0 ; 
     color: #0000ff;
 }
 
+/*change size and appearance of standalone emotes*/
 .emoji.jumboable {
     width: 40px;
     height: 40px;
  }
+ */change size and appearance of emotes in sentences*/
 .emoji {
     min-width: 25px;
     min-height: 25px;
 }
-/*Apparently to change emoji picker scroller? I guess?
+/*Apparently to change emoji picker scroller*/
 .emoji-picker .scroller::-webkit-scrollbar-thumb {
-    /background-color: #876897 !important;
-    //border-color: #0000ff !important; 
+    background-color: #876897 !important;
+    border-color: #0000ff !important; 
 }
-
+/*Changes size of emoji picker scroller*/
 .emoji-picker .scroller::-webkit-scrollbar, .bda-dark .emoji-picker .scroller::-webkit-scrollbar-track, .bda-dark .emoji-picker .scroller::-webkit-scrollbar-track-piece {
-    //background-color: #000000 !important;
-    //border-color: #ffffff !important;
-    //width: 30px !important;
-}*/
+    background-color: #000000 !important;
+    border-color: #ffffff !important;
+    width: 30px !important;
+}
 
 
 /*includes not background of chat, but pfp, username, text, etc.*/
