@@ -88,13 +88,13 @@ width: 50px;
 /*Apparently to change emoji picker scroller*/
 .emoji-picker .scroller::-webkit-scrollbar-thumb {
     background-color: #876897 !important;
-    border-color: #0000ff !important; 
+    border-color: #876897 !important; 
 }
 /*Changes size of emoji picker scroller*/
-.emoji-picker .scroller::-webkit-scrollbar, .bda-dark .emoji-picker .scroller::-webkit-scrollbar-track, .bda-dark .emoji-picker .scroller::-webkit-scrollbar-track-piece {
-    background-color: #000000 !important;
-    border-color: #ffffff !important;
-    width: 30px !important;
+.emoji-picker .scroller::-webkit-scrollbar, .emoji-picker .scroller::-webkit-scrollbar-track, .emoji-picker .scroller::-webkit-scrollbar-track-piece {
+    background-color: #987987 !important;
+    border-color: #FFFFFF !important;
+    width: 10px !important;
 }
 
 
