@@ -1,0 +1,125 @@
+body{
+ font-family: georgia, Whitney, sans-serif !important;
+}
+
+
+.layer .layers { 
+    background: transparent !important 
+} 
+
+.emoji.jumboable {
+    width: 40px;
+    height: 40px;
+ }
+.emoji {
+    min-width: 25px;
+    min-height: 25px;
+}
+
+.emoji-picker .scroller::-webkit-scrollbar-thumb {
+    background-color: #876897 !important;
+    border-color: #876897 !important; 
+}
+
+.emoji-picker .scroller::-webkit-scrollbar, .emoji-picker .scroller::-webkit-scrollbar-track, .emoji-picker .scroller::-webkit-scrollbar-track-piece {
+    background-color: #987987 !important;
+    border-color: #FFFFFF !important;
+    width: 10px !important;
+}
+
+div.wordmark-2L03Wr{
+ background-color:transparent !important; 
+    background-image: url("http://i.bandori.party/u/c/778Kanon-Matsubara-Power-TUbE68.png") !important;
+    background-size: 53px !important;
+    background-repeat:no-repeat !important;
+    opacity: .8 !important;
+    left: 2px;
+    top: 2px;
+}
+/*Some svg thing I need help with later*/
+.typeWindows-15E0Ys {
+    height: 52px !important;
+}
+
+/*Modified buttons.css, changes min, max, and x buttons*/
+/* Min */
+#app-mount > div.typeWindows-15E0Ys.titleBar-3_fDwJ.horizontalReverse-k5PqxT.flex-3B1Tl4.directionRowReverse-2eZTxP.justifyStart-2yIZo0.alignStretch-1hwxMa > div:nth-child(4){
+   height:53px;
+    width: 53px;
+    background-color:transparent !important;
+    background-image: url("http://i.bandori.party/u/c/a/776Eve-Wakamiya-Power-tte8hW.png") !important;
+    background-repeat:no-repeat !important;
+    background-size:53px !important;
+    opacity: .5 !important;
+    right:2px;
+    top: -3px;
+    padding: 1px !important;
+}
+
+
+/* Max */
+#app-mount > div.typeWindows-15E0Ys.titleBar-3_fDwJ.horizontalReverse-k5PqxT.flex-3B1Tl4.directionRowReverse-2eZTxP.justifyStart-2yIZo0.alignStretch-1hwxMa > div:nth-child(3){
+ height:53px;
+    width: 53px;
+    background-color:transparent !important;
+    background-image: url("http://i.bandori.party/u/c/a/741Kokoro-Tsurumaki-Power-crZcma.png") !important;
+    background-repeat:no-repeat !important;
+    background-size:53px !important;
+    opacity: .5 !important;
+    right:2px;
+    top: -3px;
+    padding: 1px !important;
+}
+
+
+/* Exit */
+#app-mount > div.typeWindows-15E0Ys.titleBar-3_fDwJ.horizontalReverse-k5PqxT.flex-3B1Tl4.directionRowReverse-2eZTxP.justifyStart-2yIZo0.alignStretch-1hwxMa > div.winButtonClose-2rIvsa.winButton-U7zAqI.center-1MLNrE.flex-3B1Tl4.justifyCenter-29N31w.alignCenter-3VxkQP{
+   height:53px;
+    width: 53px;
+    background-color:transparent !important;
+    background-image: url("http://i.bandori.party/u/c/a/681Himari-Uehara-Power-7c3vbR.png") !important;
+    background-repeat:no-repeat !important;
+    background-size:53px !important;
+    opacity: .5 !important;
+    right:2px;
+    top: -3px;
+    padding: 1px !important;
+}
+
+/* Min Hover */
+#app-mount > div.typeWindows-15E0Ys.titleBar-3_fDwJ.horizontalReverse-k5PqxT.flex-3B1Tl4.directionRowReverse-2eZTxP.justifyStart-2yIZo0.alignStretch-1hwxMa > div:nth-child(4):hover{
+  
+  opacity: .8 !important;
+}
+
+
+/* Max Hover */
+#app-mount > div.typeWindows-15E0Ys.titleBar-3_fDwJ.horizontalReverse-k5PqxT.flex-3B1Tl4.directionRowReverse-2eZTxP.justifyStart-2yIZo0.alignStretch-1hwxMa > div:nth-child(3):hover{
+ 
+  opacity: .8 !important;
+}
+
+
+/* Exit Hover */
+#app-mount > div.typeWindows-15E0Ys.titleBar-3_fDwJ.horizontalReverse-k5PqxT.flex-3B1Tl4.directionRowReverse-2eZTxP.justifyStart-2yIZo0.alignStretch-1hwxMa > div.winButtonClose-2rIvsa.winButton-U7zAqI.center-1MLNrE.flex-3B1Tl4.justifyCenter-29N31w.alignCenter-3VxkQP:hover{
+    opacity: .8 !important;
+    
+}
+
+#app-mount > div.typeWindows-15E0Ys.titleBar-3_fDwJ.horizontalReverse-k5PqxT.flex-3B1Tl4.directionRowReverse-2eZTxP.justifyStart-2yIZo0.alignStretch-1hwxMa > div.winButtonClose-2rIvsa.winButton-U7zAqI.center-1MLNrE.flex-3B1Tl4.justifyCenter-29N31w.alignCenter-3VxkQP > svg,#app-mount > div.typeWindows-15E0Ys.titleBar-3_fDwJ.horizontalReverse-k5PqxT.flex-3B1Tl4.directionRowReverse-2eZTxP.justifyStart-2yIZo0.alignStretch-1hwxMa > div:nth-child(3) > svg,#app-mount > div.typeWindows-15E0Ys.titleBar-3_fDwJ.horizontalReverse-k5PqxT.flex-3B1Tl4.directionRowReverse-2eZTxP.justifyStart-2yIZo0.alignStretch-1hwxMa > div:nth-child(4) > svg{
+	display:none;
+}
+
+.winButtonClose-2rIvsa:hover {
+    background: transparent!important;
+}
+/*Back to fully original code here mates woo-hoo*/
+
+/*does the majority of the titlebar*/
+.titleBar-3_fDwJ{
+    background-color:#70fff0;
+}
+/*does the top section*/
+.appMount-14L89u {
+ background-color:#70fff0;   
+}
