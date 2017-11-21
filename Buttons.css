@@ -1,0 +1,47 @@
+/* Min */
+#app-mount > div.typeWindows-15E0Ys.titleBar-3_fDwJ.horizontalReverse-k5PqxT.flex-3B1Tl4.directionRowReverse-2eZTxP.justifyStart-2yIZo0.alignStretch-1hwxMa > div:nth-child(4){
+  background-image: url('https://ditmcouk.ipage.com/noottech/discord-icons/green/minimise.svg') !important;
+  opacity: 0.4 !important;
+}
+
+
+/* Max */
+#app-mount > div.typeWindows-15E0Ys.titleBar-3_fDwJ.horizontalReverse-k5PqxT.flex-3B1Tl4.directionRowReverse-2eZTxP.justifyStart-2yIZo0.alignStretch-1hwxMa > div:nth-child(3){
+  background-image: url('https://ditmcouk.ipage.com/noottech/discord-icons/green/green-maximise.svg') !important;
+  opacity: 0.4 !important;
+}
+
+
+/* Exit */
+#app-mount > div.typeWindows-15E0Ys.titleBar-3_fDwJ.horizontalReverse-k5PqxT.flex-3B1Tl4.directionRowReverse-2eZTxP.justifyStart-2yIZo0.alignStretch-1hwxMa > div.winButtonClose-2rIvsa.winButton-U7zAqI.center-1MLNrE.flex-3B1Tl4.justifyCenter-29N31w.alignCenter-3VxkQP{
+  background-image: url('https://ditmcouk.ipage.com/noottech/discord-icons/green/green-closewindow.svg') !important;
+  opacity: 0.4 !important;
+}
+
+/* Min Hover */
+#app-mount > div.typeWindows-15E0Ys.titleBar-3_fDwJ.horizontalReverse-k5PqxT.flex-3B1Tl4.directionRowReverse-2eZTxP.justifyStart-2yIZo0.alignStretch-1hwxMa > div:nth-child(4):hover{
+  background-image: url('https://ditmcouk.ipage.com/noottech/discord-icons/green/minimise.svg') !important;
+  opacity: 1 !important;
+}
+
+
+/* Max Hover */
+#app-mount > div.typeWindows-15E0Ys.titleBar-3_fDwJ.horizontalReverse-k5PqxT.flex-3B1Tl4.directionRowReverse-2eZTxP.justifyStart-2yIZo0.alignStretch-1hwxMa > div:nth-child(3):hover{
+  background-image: url('https://ditmcouk.ipage.com/noottech/discord-icons/green/green-maximise.svg') !important;
+  opacity: 1 !important;
+}
+
+
+/* Exit Hover */
+#app-mount > div.typeWindows-15E0Ys.titleBar-3_fDwJ.horizontalReverse-k5PqxT.flex-3B1Tl4.directionRowReverse-2eZTxP.justifyStart-2yIZo0.alignStretch-1hwxMa > div.winButtonClose-2rIvsa.winButton-U7zAqI.center-1MLNrE.flex-3B1Tl4.justifyCenter-29N31w.alignCenter-3VxkQP:hover{
+  background-image: url('https://ditmcouk.ipage.com/noottech/discord-icons/green/green-closewindow.svg') !important;
+  opacity: 1 !important;
+}
+
+#app-mount > div.typeWindows-15E0Ys.titleBar-3_fDwJ.horizontalReverse-k5PqxT.flex-3B1Tl4.directionRowReverse-2eZTxP.justifyStart-2yIZo0.alignStretch-1hwxMa > div.winButtonClose-2rIvsa.winButton-U7zAqI.center-1MLNrE.flex-3B1Tl4.justifyCenter-29N31w.alignCenter-3VxkQP > svg,#app-mount > div.typeWindows-15E0Ys.titleBar-3_fDwJ.horizontalReverse-k5PqxT.flex-3B1Tl4.directionRowReverse-2eZTxP.justifyStart-2yIZo0.alignStretch-1hwxMa > div:nth-child(3) > svg,#app-mount > div.typeWindows-15E0Ys.titleBar-3_fDwJ.horizontalReverse-k5PqxT.flex-3B1Tl4.directionRowReverse-2eZTxP.justifyStart-2yIZo0.alignStretch-1hwxMa > div:nth-child(4) > svg{
+	display:none;
+}
+
+.winButtonClose-2rIvsa:hover {
+    background: transparent!important;
+}
